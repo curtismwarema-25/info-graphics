@@ -37,7 +37,7 @@ This repository is dedicated to **graphic designs** that effectively present inf
 ## **💡 How to Use**  
 1️⃣ Clone the repository:  
    ```sh
-   git clone git@github.com:your-username/info-graphics.git
+   git clone git@github.com:curtismwarema-25/info-graphics.git
    ```  
 2️⃣ Browse the folders for **editable files (.psd, .ai, .aep)** and **exported versions (.png, .mp4)**.  
 3️⃣ Modify, share, or use them in your projects.  
